@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  shubhamchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-09T22:51:13.4401834+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 955e3b029a45771c3370661a4c354ff063dad188a735230964a0e3d7cd8d09ea
+    name: shubhamchart
+    type: application
+    urls:
+    - packages/shubhamchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-09T22:51:13.4377757+02:00"
