@@ -5,7 +5,7 @@
 replicaCount: 2
 
 image:
-  repository: shubhamg7495.azurecr.io/shubhu.azurecr.io:51
+  repository: shubhamg7495.azurecr.io/shubhu.azurecr.io
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
